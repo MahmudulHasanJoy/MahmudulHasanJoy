@@ -1,6 +1,6 @@
 # Joy
 
-Hi, I'm **Mahmudul Hasan Joy** — a Computer Science student at Independent University, Bangladesh. I build backend systems and web products for real workflows.
+Hi, I'm **Mahmudul Hasan Joy** — a Computer Science & Engineering student at Independent University, Bangladesh. I build backend systems and web products for real workflows.
 
 Most of my work is product-focused: study-abroad platforms (**abroadmates**, **abroad-company**), application systems (**ApplicationMate**), data tooling (**program-scraper**), and coordination software like **VERA**. I also experiment with AI detection tools when there’s a clear use case.
 
