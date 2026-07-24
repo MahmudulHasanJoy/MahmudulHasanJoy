@@ -50,4 +50,4 @@ I care about usable software — solid APIs, clean architecture, and systems tha
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MahmudulHasanJoy&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudulHasanJoy&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MahmudulHasanJoy&layout=compact&theme=tokyonight)
