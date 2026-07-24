@@ -1,138 +1,53 @@
 # Joy
 
-Hi, I'm **Mahmudul Hasan Joy** — a Computer Science student at Independent University, Bangladesh. I care about software development, backend systems, game development, and clean problem solving.
+Hi, I'm **Mahmudul Hasan Joy** — a Computer Science student at Independent University, Bangladesh. I build backend systems and web products for real workflows.
+
+Most of my work is product-focused: study-abroad platforms (**abroadmates**, **abroad-company**), application systems (**ApplicationMate**), data tooling (**program-scraper**), and coordination software like **VERA**. I also experiment with AI detection tools when there’s a clear use case.
+
+I care about usable software — solid APIs, clean architecture, and systems that solve concrete problems.
 
 ## Skills & Technologies
 
 **Languages & Tools**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Core CS:** Data Structures & Algorithms · OOP · DBMS · Automata Theory · Microprocessor
+**Core CS:** Data Structures & Algorithms · OOP · DBMS · System Design · Backend Architecture · Software Engineering
 
 ## Current Interests
 
-Building interactive systems that teach, coordinate, or simulate real workflows.
-
-- Algorithm visualization (sorting, searching, graph algorithms)
-- Educational tools for DSA and programming concepts
-- Backend logic for interactive and multi-user applications
-- Game-like simulations for learning systems
-- Moving desktop ideas into web applications
-- Stronger system design and architecture in Python & JavaScript
+- Backend systems for multi-user web platforms
+- Study-abroad and application workflow products (student + company side)
+- Coordination / information systems (e.g. emergency response & resource matching)
+- Full-stack product work — APIs, UI, and shipping end-to-end
+- Data tooling and scraping pipelines
+- Practical AI utilities (content / plagiarism detection)
+- Stronger system design, architecture, and API structure
 
 ## Featured Projects
 
 | Project | Role | What it is |
 |---|---|---|
 | [**VERA**](https://github.com/MahmudulHasanJoy/VERA) | Owner | Volunteer Emergency Response Alliance — coordinates help, resources, and responders in emergencies |
-| [**ChillKaga-Turnitin**](https://github.com/MahmudulHasanJoy/ChillKaga-Turnitin) | Owner | Fun AI & plagiarism detection experiment |
+| [**ChillKaga-Turnitin**](https://github.com/MahmudulHasanJoy/ChillKaga-Turnitin) | Owner | AI & plagiarism detection experiment |
 | [**abroadmates**](https://github.com/pro-mayesha/abroadmates) | Team | Study-abroad / student platform (private) |
 | [**abroad-company**](https://github.com/pro-mayesha/abroad-company) | Team | Company-side companion product (private) |
 | [**ApplicationMate**](https://github.com/pro-mayesha/applicationmate) | Team | Application workflow backend (private) |
 | [**ApplicationMate UI**](https://github.com/pro-mayesha/applicationmate-ui) | Team | Frontend for ApplicationMate (private) |
 | [**program-scraper**](https://github.com/pro-mayesha/program-scraper) | Team | Program data scraping utilities |
-| [**humouraRrhin**](https://github.com/RidwanHasanKhandakar/humouraRrhin) | Collaborator | Creative / game-flavored project |
-
-## GitHub Stats
-
-# Joy
-
-Hi, I'm **Mahmudul Hasan Joy** — a Computer Science student at Independent University, Bangladesh. I care about software development, backend systems, game development, and clean problem solving.
-
-## Skills & Technologies
-
-**Languages & Tools**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Core CS:** Data Structures & Algorithms · OOP · DBMS · Automata Theory · Microprocessor
-
-## Current Interests
-
-Building interactive systems that teach, coordinate, or simulate real workflows.
-
-- Algorithm visualization (sorting, searching, graph algorithms)
-- Educational tools for DSA and programming concepts
-- Backend logic for interactive and multi-user applications
-- Game-like simulations for learning systems
-- Moving desktop ideas into web applications
-- Stronger system design and architecture in Python & JavaScript
-
-## Featured Projects
-
-| Project | Role | What it is |
-|---|---|---|
-| [**VERA**](https://github.com/MahmudulHasanJoy/VERA) | Owner | Volunteer Emergency Response Alliance — coordinates help, resources, and responders in emergencies |
-| [**ChillKaga-Turnitin**](https://github.com/MahmudulHasanJoy/ChillKaga-Turnitin) | Owner | Fun AI & plagiarism detection experiment |
-| [**abroadmates**](https://github.com/pro-mayesha/abroadmates) | Team | Study-abroad / student platform (private) |
-| [**abroad-company**](https://github.com/pro-mayesha/abroad-company) | Team | Company-side companion product (private) |
-| [**ApplicationMate**](https://github.com/pro-mayesha/applicationmate) | Team | Application workflow backend (private) |
-| [**ApplicationMate UI**](https://github.com/pro-mayesha/applicationmate-ui) | Team | Frontend for ApplicationMate (private) |
-| [**program-scraper**](https://github.com/pro-mayesha/program-scraper) | Team | Program data scraping utilities |
-| [**humouraRrhin**](https://github.com/RidwanHasanKhandakar/humouraRrhin) | Collaborator | Creative / game-flavored project |
-
-## GitHub Stats
-
-# Joy
-
-Hi, I'm **Mahmudul Hasan Joy** — a Computer Science student at Independent University, Bangladesh. I care about software development, backend systems, game development, and clean problem solving.
-
-## Skills & Technologies
-
-**Languages & Tools**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Core CS:** Data Structures & Algorithms · OOP · DBMS · Automata Theory · Microprocessor
-
-## Current Interests
-
-Building interactive systems that teach, coordinate, or simulate real workflows.
-
-- Algorithm visualization (sorting, searching, graph algorithms)
-- Educational tools for DSA and programming concepts
-- Backend logic for interactive and multi-user applications
-- Game-like simulations for learning systems
-- Moving desktop ideas into web applications
-- Stronger system design and architecture in Python & JavaScript
-
-## Featured Projects
-
-| Project | Role | What it is |
-|---|---|---|
-| [**VERA**](https://github.com/MahmudulHasanJoy/VERA) | Owner | Volunteer Emergency Response Alliance — coordinates help, resources, and responders in emergencies |
-| [**ChillKaga-Turnitin**](https://github.com/MahmudulHasanJoy/ChillKaga-Turnitin) | Owner | Fun AI & plagiarism detection experiment |
-| [**abroadmates**](https://github.com/pro-mayesha/abroadmates) | Team | Study-abroad / student platform (private) |
-| [**abroad-company**](https://github.com/pro-mayesha/abroad-company) | Team | Company-side companion product (private) |
-| [**ApplicationMate**](https://github.com/pro-mayesha/applicationmate) | Team | Application workflow backend (private) |
-| [**ApplicationMate UI**](https://github.com/pro-mayesha/applicationmate-ui) | Team | Frontend for ApplicationMate (private) |
-| [**program-scraper**](https://github.com/pro-mayesha/program-scraper) | Team | Program data scraping utilities |
-| [**humouraRrhin**](https://github.com/RidwanHasanKhandakar/humouraRrhin) | Collaborator | Creative / game-flavored project |
 
 ## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MahmudulHasanJoy&hide_border=true)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MahmudulHasanJoy&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudulHasanJoy&layout=compact&theme=tokyonight)
